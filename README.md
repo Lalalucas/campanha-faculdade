@@ -1,82 +1,85 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Gabriel de Morais</h1>
+<h1 align="center">🚀 Minha Jornada com Open Source & Desenvolvimento Seguro</h1>
+
 <p align="center">
-  <strong>Especialista em Segurança da Informação | Engenheiro de Software | Bug Bounty Hunter</strong>
-</p>
-<p align="center">
-  <a href="mailto:lucasescobarmorais@gmail.com">Email</a> •
-  <a href="http://linkedin.com/in/lucas-morais" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/Lalalucas" target="_blank">GitHub</a>
+  <strong>Desenvolvedor | Especialista em Segurança da Informação | Contribuidor Open Source</strong><br>
+  <a href="mailto:lucasescobarmorais@gmail.com">lucasescobarmorais@gmail.com</a> • 
+  <a href="https://github.com/Lalalucas">GitHub</a> • 
+  <a href="https://linkedin.com/in/lucasgdm">LinkedIn</a> • 
+  <a href="https://signal.me/#eu/Cw8TsrwvMGUxNxVIVcel3uA4uI0s8xr5rRz6Zi7YsrHuLOqO1Q9G-IZ2z4bxm3lF">Signal: MoraisLGM</a>
 </p>
 
 ---
 
-<img align="right" src="https://lh3.googleusercontent.com/p/AF1QipO7i6J7W9q3Z0Z7Z0Z7Z0Z7Z0Z7Z0Z7Z0Z7Z0Z7=s680-w680-h510" width="180" style="border-radius: 8px; margin-left: 24px;"/>
+## 🏆 Conquista no Desafio DIO: "Me Criando"
+
+Participei e concluí com sucesso o desafio **"Me Criando"** da plataforma [DIO.me](https://dio.me), voltado ao uso prático de **Git** e **GitHub**. Nele, contribuí de forma ativa com projetos open source, praticando:
+
+- 📌 Criação de repositórios e versionamento com Git
+- 🔀 Uso de branches, commits claros e Pull Requests
+- 🛡️ Push seguro com `--force-with-lease` e Squash Commits
+- 🤝 Colaboração e boas práticas no ecossistema open source
+
+📄 [Visualizar meu certificado aqui](https://www.dio.me/certificate/3HCRYICV/share)
+
+---
 
 ## 👨‍💻 Sobre Mim
 
-Sou Lucas Gabriel de Morais, 29 anos, de Aparecida de Goiânia (GO), Brasil. Autodidata e apaixonado por tecnologia, construí minha carreira em cibersegurança e engenharia de software com muita dedicação, estudo e ética. Atualmente, busco apoio financeiro ou bolsas de estudo para concluir minha graduação em Engenharia/Ciências da Computação, enquanto enfrento desafios pessoais e apoio minha mãe em sua luta contra o câncer.
+Me chamo **Lucas Gabriel de Morais**, sou natural de Aparecida de Goiânia (GO), e me dedico há anos à **cibersegurança ofensiva, engenharia reversa e automação de inteligência ofensiva**.
+
+- 💻 **Especialista em Pentest, Forense Digital e Bug Bounty**
+- 🧠 **Síndrome de Asperger** (hiperfoco, lógica crítica e extrema atenção ao detalhe)
+- 🛠️ Desenvolvedor de ferramentas próprias para testes ofensivos e automações via Termux + Kali
+- 📈 Consultor em segurança de aplicações web, redes e infraestrutura
 
 ---
 
-## 🎯 Minha Missão
+## 💼 Habilidades Técnicas
 
-- 📚 **Formação acadêmica:** Engenharia/Ciências da Computação (conclusão prevista: 12/2024)
-- 💡 **Certificações:** OSCP, CEH, CISSP, CISM, CCNA Security, Security+, Pentest+, Microsoft Azure (Bootcamp 50 Anos)
-- 🔐 **Especialidades:** Pentest, bug bounty, forense digital, resposta a incidentes, desenvolvimento seguro
-- 🌍 **Apoio:** Busco doações, bolsas de estudo ou oportunidades tecnológicas para custear mensalidades e um notebook para estudos/trabalho remoto
-
----
-
-## 💼 Habilidades
-
-- **Cibersegurança:** Pentest (web, redes, IoT), forense digital, bug bounty, resposta a incidentes
-- **Desenvolvimento:** Python, Java, C#, JavaScript, Go, Rust, RESTful APIs, DevSecOps, Azure, AWS, Docker
-- **Outras:** UX/UI, SEO, automação, design digital (Adobe Suite, Figma)
+| Área                    | Ferramentas / Tecnologias |
+|-------------------------|---------------------------|
+| **Pentest & Segurança** | Metasploit, BeEF, Hydra, Nikto, Wapiti, OWASP ZAP, Volatility |
+| **Desenvolvimento**     | Python, Bash, JavaScript, Go, Rust, C#, DevSecOps, APIs REST |
+| **Cloud & Infra**       | Docker, Azure, AWS, Linux (Kali, Parrot), Termux |
+| **Automação & Análise** | Playwright, Lynis, John the Ripper, Aircrack-ng, Darkstat |
 
 ---
 
-## 🏆 Certificações
+## 📜 Certificações e Formação
 
-- Offensive Security Certified Professional (**OSCP**)
-- Certified Ethical Hacker (**CEH**)
-- Certified Information Systems Security Professional (**CISSP**)
-- Certified Information Security Manager (**CISM**)
-- CCNA Security, CompTIA Security+, Pentest+, Microsoft Azure (Bootcamp 50 Anos)
+- 🏅 **OSCP**, **CEH**, **CISSP**, **CISM**, **CHFI**, **LPT**, **Security+**
+- 🎓 Graduação em Engenharia/Ciências da Computação (em andamento – previsão: 2025)
+- 🧑‍🎓 Cursos de especialização em: Pentest Avançado, Azure Security, Engenharia Reversa
 
 ---
 
-## 🌐 Contato e Apoio
+## 🔗 Contatos
 
-- **Email:** [lucasescobarmorais@gmail.com](mailto:lucasescobarmorais@gmail.com)
-- **WhatsApp/Signal:** [+55 62 98245-6245](tel:+5562982456245)
-- **LinkedIn:** [linkedin.com/in/lucas-morais](http://linkedin.com/in/lucas-morais)
-- **Pix para doações:** lucasescobarmorais@gmail.com (Banco Sicoob, Titular: Lucas Gabriel de Morais)
-
----
-
-## 🚀 Como Contribuir
-
-- Compartilhe meu perfil e minha campanha: [Minha Campanha de Apoio](https://Lalalucas.github.io/campanha-faculdade)
-- Doações via Pix ajudam diretamente na mensalidade (~R$900/mês, total >R$20.000) e na compra de um notebook para estudos/trabalho remoto.
-- Sou aberto a entrevistas, testes técnicos ou propostas de bolsas e patrocínio.
+| Plataforma | Acesso |
+|------------|--------|
+| 📧 Gmail | [lucasescobarmorais@gmail.com](mailto:lucasescobarmorais@gmail.com) |
+| 🔐 Proton | [lucasescobarmorais@proton.me](mailto:lucasescobarmorais@proton.me) |
+| 📱 WhatsApp | [+55 62 98245-6245](https://wa.me/5562982456245) |
+| 🔐 Signal | [MoraisLGM](https://signal.me/#eu/Cw8TsrwvMGUxNxVIVcel3uA4uI0s8xr5rRz6Zi7YsrHuLOqO1Q9G-IZ2z4bxm3lF) |
+| 🌐 GitHub | [github.com/Lalalucas](https://github.com/Lalalucas) |
+| 💼 LinkedIn | [linkedin.com/in/lucasgdm](https://linkedin.com/in/lucasgdm) |
 
 ---
 
-## ✨ Extras
+## 🤝 Apoio e Parcerias
 
-- Residente em Portugal (livre trânsito na UE), disponível para oportunidades remotas, híbridas ou CLT, com NDA.
-- Necessito patrocínio de visto para EUA, Canadá, Austrália ou Reino Unido.
-- Não elegível para vistos TN, E-3 ou H-1B1.
+Estou em busca de:
+
+- 🧑‍🎓 Bolsas de estudo ou apoio financeiro para conclusão da graduação
+- 💻 Equipamentos (notebook) para continuidade de projetos técnicos remotos
+- 🤝 Oportunidades de colaboração, freelance, mentoria ou consultoria em cibersegurança
+
+📌 Para apoiar: **Pix:** `lucasescobarmorais@gmail.com`
 
 ---
 
 ## 💬 Mensagem Final
 
-> “A educação e a tecnologia mudaram minha vida. Com sua ajuda, posso ir ainda mais longe, transformar realidades e contribuir com o futuro da inovação no Brasil e no mundo.”
+> “A tecnologia me salvou. Com dedicação, aprendi, cresci e hoje contribuo com soluções reais. Se você acredita em talento, ética e foco, me chama. Estou pronto para somar!”
 
-Muito obrigado pela visita e apoio!  
-**Lucas Gabriel de Morais**
-
----
-
-<p align="center"><sub>Desenvolvido por Lucas Gabriel de Morais © 2025</sub></p>![1000412845](https://github.com/user-attachments/assets/ae6b34f6-f9d0-4637-89d8-5460c5e919f2)
+<p align="center"><sub>Desenvolvido por Lucas Gabriel de Morais © 2025</sub></p>
