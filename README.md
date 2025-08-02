@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">LUCAS GABRIEL DE MORAIS</h1>
-<h3 align="center">Especialista em Cibersegurança | Engenheiro de Software | Estrategista Digital</h3>
+<h3 align="center">Especialista em Cibersegurança | Engenheiro de Software | Estrategista de IA</h3>
 
 <p align="center">
   <a href="https://github.com/Lalalucas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -17,7 +17,7 @@
 
 ### 🎯 **Resumo Profissional**
 
-Profissional de alta performance com sólida vivência em **cibersegurança ofensiva, desenvolvimento full-stack, DevSecOps e estratégia digital**. Minha trajetória inclui projetos complexos em pentest, análise de vulnerabilidades, automação e defesa proativa. Como Bug Bounty Hunter e desenvolvedor, possuo um vasto arsenal de ferramentas e crio soluções proprietárias de alta eficiência.
+Profissional de alta performance com sólida vivência em **cibersegurança ofensiva, desenvolvimento full-stack, implementação de IA e estratégia digital**. Minha trajetória inclui projetos complexos em pentest, análise de vulnerabilidades, automação e defesa proativa. Como Bug Bounty Hunter e desenvolvedor, possuo um vasto arsenal de ferramentas e crio soluções proprietárias de alta eficiência, integrando inteligência artificial para otimizar a segurança e a resposta a ameaças.
 
 Opero em um ambiente digital seguro e customizado, projetado para máxima discrição e eficácia, garantindo a integridade e o sigilo em operações de alto risco. Minha experiência abrange desde a segurança de sistemas bancários (Bradesco) até a manutenção técnica em Portugal, fortalecendo minha resiliência e base técnica.
 
@@ -40,18 +40,21 @@ Diagnosticado com Síndrome de Asperger, utilizo o **hiperfoco, a atenção aos 
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
 </p>
 
 | Área | Tecnologias e Ferramentas |
 | :--- | :--- |
 | **Cibersegurança & Inteligência** | `Metasploit` `Burp Suite` `OWASP ZAP` `Nmap` `Forense Digital` `Espionagem & Contraespionagem` `Criptografia de Nível Militar` `Red/Blue/Purple Team` `Engenharia Reversa` |
 | **Desenvolvimento Full-Stack** | `Python` `Bash` `JavaScript` `HTML/CSS` `C` `Go` `Rust` `Front-End` `Back-End` `REST APIs` `Automação` |
-| **Cloud & DevOps** | `AWS` `GCP` `Azure` `Docker` `CI/CD` `GitHub Actions` `DevSecOps` |
-| **Infraestrutura & TI** | `Redes & Servidores` `Linux (Kali, Parrot)` `Termux` `Administração de Ativos` `Suporte Técnico` |
+| **IA & Implementação** | `Implementação de Sistemas com IA` `ChatGPT e Ferramentas de IA` `Machine Learning Aplicado à Segurança` `Análise Preditiva de Ameaças` |
+| **Cloud & DevOps** | `AWS` `GCP` `Azure` `Cloudflare` `Docker` `CI/CD` `GitHub Actions` `DevSecOps` `Serviços em Nuvem` |
+| **Infraestrutura & Sistemas** | `Redes & Servidores` `Grandes Datacenters` `Linux (Kali, Parrot, Ubuntu)` `Windows Server` `macOS` `Android` `VSCode` `Administração de Ativos` |
 
 ---
 
@@ -74,8 +77,8 @@ Com ampla experiência prática em diferentes espectros da segurança, atuo com 
 | **Red Team & Blue Team** | Simulo ataques ofensivos (Red Team) para testar defesas e, simultaneamente, aplico estratégias de proteção e resposta a incidentes (Blue Team). |
 | **Gray Hat Hacker** | Identifico vulnerabilidades de forma proativa, com o objetivo de reportá-las responsavelmente aos proprietários para correção. |
 | **Testes de Invasão** | Conduzo testes **Black Box** (sem conhecimento prévio), **White Box** (com acesso total ao código) e **Gray Box** (com conhecimento parcial). |
-| **Inteligência e Análise Avançada** | Tenho proficiência em **Forense Digital** para recuperação e investigação de material em dispositivos digitais. [1, 2] Atuo com técnicas de **Espionagem e Contraespionagem** para proteção de informações sensíveis e possuo expertise em **Criptografia de Nível Militar (AES-256)** para garantir a confidencialidade dos dados. [4, 6, 9, 10] |
-| **Análise de Sinais e Comunicações** | Possuo experiência na análise e utilização de dados provenientes de **tecnologias de satélite** para fins de inteligência e segurança. [23, 27] |
+| **Inteligência e Análise Avançada** | Tenho proficiência em **Forense Digital** para recuperação e investigação de material em dispositivos digitais. Atuo com técnicas de **Espionagem e Contraespionagem** para proteção de informações sensíveis e possuo expertise em **Criptografia de Nível Militar (AES-256)** para garantir a confidencialidade dos dados. |
+| **Análise de Sinais e Comunicações** | Possuo experiência na análise e utilização de dados provenientes de **tecnologias de satélite** para fins de inteligência e segurança. |
 | **Engenharia Social** | Desenvolvo e executo campanhas de conscientização e testes de phishing para mitigar riscos relacionados ao fator humano. |
 
 ---
@@ -92,7 +95,7 @@ Atuo ativamente na identificação e no reporte ético de vulnerabilidades para 
 ### ✨ **Projetos Técnicos de Destaque**
 
 *   **Desenvolvimento de Ferramentas Proprietárias:** Criação de um arsenal de ferramentas de automação e segurança em Python, Go e Rust, otimizadas para eficiência máxima em operações ofensivas e de reconhecimento.
-*   **Criação de Conteúdo (YouTube):** Fundador e gestor do canal **PlayViws**, focado em notícias e análises, onde aplico minhas habilidades de edição e estratégia de conteúdo. [2, 3]
+*   **Criação de Conteúdo (YouTube):** Fundador e gestor do canal **PlayViws**, focado em notícias e análises, onde aplico minhas habilidades de edição e estratégia de conteúdo.
 *   **Automação de Pentest Black Box:** Scripts em Python e `ffuf` para fuzzing de diretórios, descoberta de subdomínios e varredura de vulnerabilidades.
 *   **Auditoria SEO para E-commerce:** Correção de `sitemap.xml` e `robots.txt`, resultando em um **aumento de mais de 22% na indexação** de páginas.
 
@@ -126,7 +129,7 @@ Atuo ativamente na identificação e no reporte ético de vulnerabilidades para 
 
 <span style="color: #38bdf8;">╔══</span><span style="color: #475569;">═[ </span><span style="color: #94a3b8; font-weight: bold;">CORE ATTRIBUTES</span><span style="color: #475569;"> ]</span><span style="color: #38bdf8;">═════════════════════════════════════════════════════════════</span><span style="color: #38bdf8;">╗</span>
 <span style="color: #38bdf8;">║</span>                                                                           <span style="color: #38bdf8;">║</span>
-<span style="color: #38bdf8;">║</span>    <span style="color: #f59e0b;">CODENAME</span><span style="color: #475569;">..:</span><span style="color: #e0e0e0;"> AspergerianLogic    </span><span style="color: #f59e0b;">FOCUS</span><span style="color: #475569;">.....:</span><span style="color: #e0e0e0;"> Offensive Security     </span><span style="color: #38bdf8;">║</span>
+<span style="color: #38bdf8;">║</span>    <span style="color: #f59e0b;">CODENAME</span><span style="color: #475569;">..:</span><span style="color: #e0e0e0;"> AspergerianLogic    </span><span style="color: #f59e0b;">FOCUS</span><span style="color: #475569;">.....:</span><span style="color: #e0e0e0;"> Offensive Security, AI </span><span style="color: #38bdf8;">║</span>
 <span style="color: #38bdf8;">║</span>    <span style="color: #f59e0b;">ARCHTYPE</span><span style="color: #475569;">..:</span><span style="color: #e0e0e0;"> Hunter-Developer      </span><span style="color: #f59e0b;">LANGUAGES</span><span style="color: #475569;">...:</span><span style="color: #e0e0e0;"> Python, Go, Rust, C    </span><span style="color: #38bdf8;">║</span>
 <span style="color: #38bdf8;">║</span>    <span style="color: #f59e0b;">LOCATION</span><span style="color: #475569;">..:</span><span style="color: #e0e0e0;"> Portugal (EU)         </span><span style="color: #f59e0b;">AVAILABILITY</span><span style="color: #475569;">:</span><span style="color: #e0e0e0;"> Global (Sponsorship)   </span><span style="color: #38bdf8;">║</span>
 <span style="color: #38bdf8;">║</span>                                                                           <span style="color: #38bdf8;">║</span>
