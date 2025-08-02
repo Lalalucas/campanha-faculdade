@@ -2,13 +2,15 @@
   <img src="https://i.imgur.com/gKkEBuP.jpeg" alt="Foto de Lucas Morais" width="200" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">LUCAS MORAIS</h1>
+<h1 align="center">LUCAS GABRIEL DE MORAIS</h1>
 <h3 align="center">Especialista em Cibersegurança | Engenheiro de Software | Bug Bounty Hunter</h3>
 
 <p align="center">
   <a href="https://github.com/Lalalucas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/lucasgdm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:lucasescobarmorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://wa.me/5562982456245" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://signal.me/#p/+5567996575927" target="_blank"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal"></a>
 </p>
 
 ---
@@ -47,29 +49,29 @@ Diagnosticado com Síndrome de Asperger, utilizo o **hiperfoco, a atenção aos 
 
 | Área | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Cibersegurança & Pentest** | `Metasploit` `Burp Suite` `Nikto` `BeEF` `OWASP ZAP` `Wireshark` `Hydra` `John the Ripper` `Nmap` `ffuf` `Red/Blue/Purple Team` |
-| **Desenvolvimento** | `Python` `Bash` `JavaScript` `HTML/CSS` `C` `Go` `C#` `Rust` `REST APIs` |
+| **Cibersegurança & Pentest** | `Metasploit` `Burp Suite` `Nikto` `BeEF` `OWASP ZAP` `Wireshark` `Hydra` `John the Ripper` `Nmap` `ffuf` `Recon-ng` `Red/Blue/Purple Team` `IoT` `Engenharia Reversa` |
+| **Desenvolvimento** | `Python` `Bash` `JavaScript` `HTML/CSS` `C` `Go` `Rust` `REST APIs` `Automação` |
 | **Cloud & DevOps** | `AWS` `GCP` `Azure` `Docker` `CI/CD` `GitHub Actions` `DevSecOps` |
-| **Infraestrutura & TI** | `Suporte Técnico` `Redes` `Servidores` `Linux (Kali, Parrot)` `Administração de Ativos` |
-| **SEO Técnico** | `SEMrush` `Google Search Console` `Playwright` `Lighthouse` |
+| **Infraestrutura & TI** | `Suporte Técnico` `Redes` `Servidores` `Linux (Kali, Parrot)` `Termux` `Administração de Ativos` |
+| **SEO Técnico** | `SEMrush` `Google Search Console` `Playwright` `Lighthouse` `curl` |
 
 ---
 
-### 💼 **Experiência Profissional**
+### 🏅 **Colaborações em Bug Bounty e Divulgação Responsável**
 
-*   **Freelancer Técnico** | Autônomo (2018 – atualmente)
-*   **Técnico de Manutenção Veicular** | Midas e Roady (Portugal) (2018 – 2023)
-*   **Monitor de Alarmes** | Bell Amfe Proteção e Serviços (Mar – Nov/2023)
-*   **Outras:** Auxiliar Mecânico (2024), Porteiro (2023), Almoxarife (2015), Auxiliar Administrativo (2012)
+Atuo ativamente na identificação e no reporte ético de vulnerabilidades para grandes organizações, com colaborações em projetos de segurança junto a:
+*   **Meta (Facebook):** Reporte de vulnerabilidades através do programa oficial de Bug Bounty.
+*   **Companhias Aéreas (LATAM & TAP Air Portugal):** Identificação e comunicação de falhas de segurança críticas.
+*   **Instituições Financeiras (Banco Central do Brasil e Banco do Nordeste):** Análise proativa e elaboração de relatórios técnicos detalhando vulnerabilidades e exposição de informações.
 
 ---
 
-### 🏅 **Bug Bounty e Divulgação Responsável**
+### ✨ **Projetos Técnicos de Destaque**
 
-Atuo na identificação e no reporte ético de falhas para grandes organizações, com colaborações notáveis junto a:
-*   **Facebook (Meta):** Reporte de vulnerabilidades através do programa oficial de Bug Bounty.
-*   **LATAM Airlines & TAP Air Portugal:** Identificação e comunicação de falhas de segurança.
-*   **Instituições Financeiras (Banco Central e Banco do Nordeste):** Análise proativa e elaboração de relatórios técnicos detalhando vulnerabilidades e exposição de informações.
+*   **Auditoria SEO para E-commerce:** Correção de `sitemap.xml` e `robots.txt` em ambiente real, resultando em um **aumento de mais de 22% na indexação** de páginas.
+*   **Automação de Pentest Black Box:** Desenvolvimento de scripts em Python e `ffuf` para fuzzing de diretórios, identificação de subdomínios e varredura de vulnerabilidades de forma automatizada.
+*   **Ferramentas Ofensivas em Termux:** Criação de um conjunto de ferramentas para Android, incluindo scanners de portas, scripts de brute-force e utilitários de OSINT e reconhecimento.
+*   **Jogo da Memória (DIO.me):** Desenvolvimento de uma aplicação web com HTML, CSS e JavaScript, com foco em lógica de programação e experiência do usuário (UX).
 
 ---
 
@@ -77,16 +79,17 @@ Atuo na identificação e no reporte ético de falhas para grandes organizaçõe
 
 *   **Duplo Bacharelado em Ciência da Computação e Engenharia da Computação**
     *   *Harvard University – John A. Paulson School of Engineering and Applied Sciences (Cambridge, MA – USA)*
-    *   **Ênfase:** IA, Segurança de Sistemas, Redes, Engenharia Reversa, Criptografia.
-    *   **Cursos de Destaque:** CS50, CS61 (C, C++, Python, SQL, JavaScript, HTML/CSS).
+    *   **Ênfase:** Inteligência Artificial, Segurança de Sistemas, Redes, Arquitetura de Computadores, Engenharia Reversa e Criptografia.
+    *   **Cursos de Destaque:** CS50 (Introdução à Ciência da Computação) e CS61 (Sistemas, Programação e Abstrações), com foco em `C`, `C++`, `Python`, `SQL` e `JavaScript`.
 
 ---
 
-### 📜 **Certificações**
+### 📜 **Certificações Técnicas**
 
-*   **Segurança Ofensiva:** OSCP, OSEP, OSWP, CEH, LPT, Pentest+.
-*   **Gestão e Defesa:** CISSP, CISM, CHFI, CompTIA Security+.
-*   **Redes e Cloud:** CCNA Security, Azure Security.
+*   **Segurança Ofensiva:** OSCP, OSEP, OSWP (Offensive Security), CEH (EC-Council), Pentest+ (CompTIA).
+*   **Gestão e Defesa:** CISSP (ISC²), CompTIA Security+.
+*   **Redes e Cloud:** CCNA Security (Cisco), Pentest em Cloud, DevSecOps.
+*   **Marketing e SEO:** Google Analytics, SEMrush Site Audit.
 
 ---
 
@@ -96,7 +99,7 @@ Atuo na identificação e no reporte ético de falhas para grandes organizaçõe
 <span style="color: #00aaff; font-weight: bold;">║</span><span style="color: #e0e0e0; font-weight: bold;">    L U C A S   M O R A I S   -   P E R S O N A L   S E C U R I T Y   H U D   </span><span style="color: #00aaff; font-weight: bold;">║</span>
 <span style="color: #00aaff; font-weight: bold;">╚══════════════════════════════════════════════════════════════════════════════╝</span>
 
-<span style="color: #4ade80;">[+]</span><span style="color: #94a3b8;"> AGENT_ID:</span><span style="color: #e0e0e0;"> Lucas Morais        </span><span style="color: #4ade80;">[+]</span><span style="color: #94a3b8;"> STATUS:</span><span style="color: #38bdf8;"> Actively Hunting</span>
+<span style="color: #4ade80;">[+]</span><span style="color: #94a3b8;"> AGENT_ID:</span><span style="color: #e0e0e0;"> Lucas Gabriel de Morais</span><span style="color: #4ade80;">[+]</span><span style="color: #94a3b8;"> STATUS:</span><span style="color: #38bdf8;"> Actively Hunting</span>
 
 <span style="color: #38bdf8;">╔══</span><span style="color: #475569;">═[ </span><span style="color: #94a3b8; font-weight: bold;">CORE ATTRIBUTES</span><span style="color: #475569;"> ]</span><span style="color: #38bdf8;">═════════════════════════════════════════════════════════════</span><span style="color: #38bdf8;">╗</span>
 <span style="color: #38bdf8;">║</span>                                                                           <span style="color: #38bdf8;">║</span>
@@ -104,10 +107,10 @@ Atuo na identificação e no reporte ético de falhas para grandes organizaçõe
 <span style="color: #38bdf8;">║</span>    <span style="color: #f59e0b;">ARCHTYPE</span><span style="color: #475569;">..:</span><span style="color: #e0e0e0;"> Hunter-Developer      </span><span style="color: #f59e0b;">LANGUAGES</span><span style="color: #475569;">...:</span><span style="color: #e0e0e0;"> Python, Go, Rust, C    </span><span style="color: #38bdf8;">║</span>
 <span style="color: #38bdf8;">║</span>    <span style="color: #f59e0b;">LOCATION</span><span style="color: #475569;">..:</span><span style="color: #e0e0e0;"> Portugal (EU)         </span><span style="color: #f59e0b;">AVAILABILITY</span><span style="color: #475569;">:</span><span style="color: #e0e0e0;"> Global (Sponsorship)   </span><span style="color: #38bdf8;">║</span>
 <span style="color: #38bdf8;">║</span>                                                                           <span style="color: #38bdf8;">║</span>
-<span style="color: #38bdf8;">╚══</span><span style="color: #475569;">═[ </span><span style="color: #94a3b8; font-weight: bold;">SYSTEM LOAD</span><span style="color: #475569;"> ]</span><span style="color: #38bdf8;">══════════════════════════════════════════════════════════════</span><span style="color: #38bdf8;">╝</span>
-<span style="color: #94a3b8;">   Analysis........: </span><span style="color: #4ade80;">███████████████</span><span style="color: #475569;">░░░░░░░</span><span style="color: #e0e0e0;">  [</span><span style="color: #38bdf8;">70%</span><span style="color: #e0e0e0;">]</span>
-<span style="color: #94a3b8;">   Development......: </span><span style="color: #4ade80;">████████████</span><span style="color: #475569;">░░░░░░░░░░</span><span style="color: #e0e0e0;">  [</span><span style="color: #38bdf8;">60%</span><span style="color: #e0e0e0;">]</span>
-<span style="color: #94a3b8;">   Coffee Intake....: </span><span style="color: #f87171;">████████████████████</span><span style="color: #e0e0e0;">  [</span><span style="color: #f43f5e;">100%</span><span style="color: #e0e0e0;">]</span>
+<span style="color: #38bdf8;">╚══</span><span style="color: #475569;">═[ </span><span style="color: #94a3b8; font-weight: bold;">CONTACT CHANNELS</span><span style="color: #475569;"> ]</span><span style="color: #38bdf8;">═══════════════════════════════════════════════════════════</span><span style="color: #38bdf8;">╝</span>
+<span style="color: #94a3b8;">   [>] Encrypted Comms (Signal): </span><span style="color: #e0e0e0;">+55 67 99657-5927</span>
+<span style="color: #94a3b8;">   [>] General Contact (WhatsApp): </span><span style="color: #e0e0e0;">+55 62 98245-6245</span>
+<span style="color: #94a3b8;">   [>] Professional Inquiries: </span><span style="color: #e0e0e0;">lucasescobarmorais@gmail.com</span>
 
 <span style="color: #475569;">// session_end -- standing_by_for_new_directives</span>
 </pre>
