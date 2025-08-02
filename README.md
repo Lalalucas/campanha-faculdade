@@ -19,7 +19,7 @@
 
 Profissional de alta performance com sólida vivência em **cibersegurança ofensiva,e defensiva desenvolvimento full-stack, implementação de IA e estratégia digital**. Minha trajetória inclui projetos complexos em pentest, análise de vulnerabilidades, automação e defesa proativa. Como Bug Bounty Hunter e desenvolvedor, possuo um vasto arsenal de ferramentas e crio soluções proprietárias de alta eficiência, integrando inteligência artificial para otimizar a segurança e a resposta a ameaças.
 
-Opero em um ambiente digital seguro e customizado, projetado para máxima discrição e eficácia, garantindo a integridade e o sigilo em operações de alto risco. Minha experiência abrange desde a segurança de sistemas bancários (Bradesco) até a manutenção técnica em Portugal, fortalecendo minha resiliência e base técnica.
+Opero em um ambiente digital seguro e customizado, projetado para máxima discrição e eficácia, garantindo a integridade e o sigilo em operações de alto risco. Minha experiência abrange desde a segurança de sistemas bancários até a manutenção técnica fortalecendo minha resiliência e base técnica.
 
 Possuo autorização de residência em Portugal (livre circulação na UE) e disponibilidade para oportunidades globais com sponsorship (EUA, Reino Unido, Canadá, Austrália).
 
