@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">LUCAS GABRIEL DE MORAIS</h1>
-<h3 align="center">Especialista em Cibersegurança | Engenheiro de Software | Bug Bounty Hunter</h3>
+<h3 align="center">Especialista em Cibersegurança | Engenheiro de Software | Estrategista Digital</h3>
 
 <p align="center">
   <a href="https://github.com/Lalalucas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -17,11 +17,11 @@
 
 ### 🎯 **Resumo Profissional**
 
-Profissional de alta performance com sólida vivência em **cibersegurança ofensiva, desenvolvimento full-stack, DevSecOps e SEO técnico**. Atuo desde 2018 como freelancer e analista, com projetos em pentest, análise de vulnerabilidades e automação. Minha trajetória inclui experiências operacionais que fortaleceram minha resiliência e base técnica, como monitoramento de sistemas de segurança bancários (Bradesco) e manutenção técnica em Portugal.
+Profissional de alta performance com sólida vivência em **cibersegurança ofensiva, desenvolvimento full-stack, DevSecOps e estratégia digital**. Minha trajetória inclui projetos complexos em pentest, análise de vulnerabilidades, automação e defesa proativa. Como Bug Bounty Hunter e desenvolvedor, possuo um vasto arsenal de ferramentas e crio soluções proprietárias de alta eficiência.
 
-Como **Bug Bounty Hunter** (HackerOne, Bugcrowd) e desenvolvedor, sou treinado em um vasto arsenal de ferramentas ofensivas e atuo com excelência em ambientes **Linux/Kali**, utilizando técnicas de black box e fuzzing.
+Opero em um ambiente digital seguro e customizado, projetado para máxima discrição e eficácia, garantindo a integridade e o sigilo em operações de alto risco. Minha experiência abrange desde a segurança de sistemas bancários (Bradesco) até a manutenção técnica em Portugal, fortalecendo minha resiliência e base técnica.
 
-Possuo autorização de residência em Portugal (livre circulação na UE) e disponibilidade para viagens e oportunidades internacionais com sponsorship (EUA, Reino Unido, Canadá, Austrália).
+Possuo autorização de residência em Portugal (livre circulação na UE) e disponibilidade para oportunidades globais com sponsorship (EUA, Reino Unido, Canadá, Austrália).
 
 ---
 
@@ -38,22 +38,45 @@ Diagnosticado com Síndrome de Asperger, utilizo o **hiperfoco, a atenção aos 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Metasploit-A60F2B?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
 </p>
 
 | Área | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Cibersegurança & Pentest** | `Metasploit` `Burp Suite` `Nikto` `BeEF` `OWASP ZAP` `Wireshark` `Hydra` `John the Ripper` `Nmap` `ffuf` `Recon-ng` `Red/Blue/Purple Team` `IoT` `Engenharia Reversa` |
-| **Desenvolvimento** | `Python` `Bash` `JavaScript` `HTML/CSS` `C` `Go` `Rust` `REST APIs` `Automação` |
+| **Cibersegurança & Inteligência** | `Metasploit` `Burp Suite` `OWASP ZAP` `Nmap` `Forense Digital` `Espionagem & Contraespionagem` `Criptografia de Nível Militar` `Red/Blue/Purple Team` `Engenharia Reversa` |
+| **Desenvolvimento Full-Stack** | `Python` `Bash` `JavaScript` `HTML/CSS` `C` `Go` `Rust` `Front-End` `Back-End` `REST APIs` `Automação` |
 | **Cloud & DevOps** | `AWS` `GCP` `Azure` `Docker` `CI/CD` `GitHub Actions` `DevSecOps` |
-| **Infraestrutura & TI** | `Suporte Técnico` `Redes` `Servidores` `Linux (Kali, Parrot)` `Termux` `Administração de Ativos` |
-| **SEO Técnico** | `SEMrush` `Google Search Console` `Playwright` `Lighthouse` `curl` |
+| **Infraestrutura & TI** | `Redes & Servidores` `Linux (Kali, Parrot)` `Termux` `Administração de Ativos` `Suporte Técnico` |
+
+---
+
+### 🚀 **Competências Multifacetadas**
+
+| Área | Habilidades e Ferramentas |
+| :--- | :--- |
+| **Marketing Digital & Estratégia** | `Gestão de Marketing Digital (Certificado)` `SEO/SEM` `Triagem de Leads` `Google Analytics & Ads` `Automação de Marketing` `Hacker Marketing` |
+| **Criação de Conteúdo & Mídia** | `Edição de Vídeo e Imagem (Avançado)` `Criação para YouTube` `Gestão do canal PlayViws` `Adobe Creative Suite (Premiere, Photoshop)` |
+
+---
+
+### 👾 **Modalidades de Atuação e Expertise**
+
+Com ampla experiência prática em diferentes espectros da segurança, atuo com proficiência nas seguintes modalidades:
+
+| Categoria | Descrição da Atuação |
+| :--- | :--- |
+| **Ethical Hacker (White Hat)** | Realizo testes de intrusão e análises de vulnerabilidades com autorização prévia para fortalecer a segurança de sistemas, redes e aplicações. |
+| **Red Team & Blue Team** | Simulo ataques ofensivos (Red Team) para testar defesas e, simultaneamente, aplico estratégias de proteção e resposta a incidentes (Blue Team). |
+| **Gray Hat Hacker** | Identifico vulnerabilidades de forma proativa, com o objetivo de reportá-las responsavelmente aos proprietários para correção. |
+| **Testes de Invasão** | Conduzo testes **Black Box** (sem conhecimento prévio), **White Box** (com acesso total ao código) e **Gray Box** (com conhecimento parcial). |
+| **Inteligência e Análise Avançada** | Tenho proficiência em **Forense Digital** para recuperação e investigação de material em dispositivos digitais. [1, 2] Atuo com técnicas de **Espionagem e Contraespionagem** para proteção de informações sensíveis e possuo expertise em **Criptografia de Nível Militar (AES-256)** para garantir a confidencialidade dos dados. [4, 6, 9, 10] |
+| **Análise de Sinais e Comunicações** | Possuo experiência na análise e utilização de dados provenientes de **tecnologias de satélite** para fins de inteligência e segurança. [23, 27] |
+| **Engenharia Social** | Desenvolvo e executo campanhas de conscientização e testes de phishing para mitigar riscos relacionados ao fator humano. |
 
 ---
 
@@ -62,16 +85,16 @@ Diagnosticado com Síndrome de Asperger, utilizo o **hiperfoco, a atenção aos 
 Atuo ativamente na identificação e no reporte ético de vulnerabilidades para grandes organizações, com colaborações em projetos de segurança junto a:
 *   **Meta (Facebook):** Reporte de vulnerabilidades através do programa oficial de Bug Bounty.
 *   **Companhias Aéreas (LATAM & TAP Air Portugal):** Identificação e comunicação de falhas de segurança críticas.
-*   **Instituições Financeiras (Banco Central do Brasil e Banco do Nordeste):** Análise proativa e elaboração de relatórios técnicos detalhando vulnerabilidades e exposição de informações.
+*   **Instituições Financeiras (Banco Central do Brasil e Banco do Nordeste):** Análise proativa e elaboração de relatórios técnicos detalhando vulnerabilidades.
 
 ---
 
 ### ✨ **Projetos Técnicos de Destaque**
 
-*   **Auditoria SEO para E-commerce:** Correção de `sitemap.xml` e `robots.txt` em ambiente real, resultando em um **aumento de mais de 22% na indexação** de páginas.
-*   **Automação de Pentest Black Box:** Desenvolvimento de scripts em Python e `ffuf` para fuzzing de diretórios, identificação de subdomínios e varredura de vulnerabilidades de forma automatizada.
-*   **Ferramentas Ofensivas em Termux:** Criação de um conjunto de ferramentas para Android, incluindo scanners de portas, scripts de brute-force e utilitários de OSINT e reconhecimento.
-*   **Jogo da Memória (DIO.me):** Desenvolvimento de uma aplicação web com HTML, CSS e JavaScript, com foco em lógica de programação e experiência do usuário (UX).
+*   **Desenvolvimento de Ferramentas Proprietárias:** Criação de um arsenal de ferramentas de automação e segurança em Python, Go e Rust, otimizadas para eficiência máxima em operações ofensivas e de reconhecimento.
+*   **Criação de Conteúdo (YouTube):** Fundador e gestor do canal **PlayViws**, focado em notícias e análises, onde aplico minhas habilidades de edição e estratégia de conteúdo. [2, 3]
+*   **Automação de Pentest Black Box:** Scripts em Python e `ffuf` para fuzzing de diretórios, descoberta de subdomínios e varredura de vulnerabilidades.
+*   **Auditoria SEO para E-commerce:** Correção de `sitemap.xml` e `robots.txt`, resultando em um **aumento de mais de 22% na indexação** de páginas.
 
 ---
 
@@ -86,10 +109,10 @@ Atuo ativamente na identificação e no reporte ético de vulnerabilidades para 
 
 ### 📜 **Certificações Técnicas**
 
-*   **Segurança Ofensiva:** OSCP, OSEP, OSWP (Offensive Security), CEH (EC-Council), Pentest+ (CompTIA).
-*   **Gestão e Defesa:** CISSP (ISC²), CompTIA Security+.
-*   **Redes e Cloud:** CCNA Security (Cisco), Pentest em Cloud, DevSecOps.
-*   **Marketing e SEO:** Google Analytics, SEMrush Site Audit.
+*   **Segurança Ofensiva & Forense:** OSCP, OSEP, OSWP, CEH, Pentest+, Certified Computer Examiner (CCE).
+*   **Gestão e Defesa:** CISSP, CompTIA Security+.
+*   **Desenvolvimento e Cloud:** CCNA Security, Pentest em Cloud, DevSecOps.
+*   **Marketing Digital:** Certificação em Gestão de Marketing Digital, Google Analytics & Ads, SEMrush.
 
 ---
 
