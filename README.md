@@ -11,20 +11,6 @@
   <a href="mailto:lucasescobarmorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<div align="center">
-<pre>
-+-------------------------------------------------------------------+
-|                                                                   |
-|    _                ____            _       __  __                |
-|   | |    __ _      / ___| ___  __ _| |___  |  \/  | __ _ _ __      |
-|   | |   / _` |    | |  _ / _ \/ _` | / __| | |\/| |/ _` | '_ \     |
-|   | |__| (_| |    | |_| |  __/ (_| | \__ \ | |  | | (_| | | | |    |
-|   |_____\__,_|     \____|\___|\__,_|_|___/ |_|  |_|\__,_|_| |_|    |
-|                                                                   |
-+-------------------------------------------------------------------+
-</pre>
-</div>
-
 ---
 
 ### 🎯 **Resumo Profissional**
@@ -103,20 +89,26 @@ Atuo na identificação e no reporte ético de falhas para grandes organizaçõe
 *   **Redes e Cloud:** CCNA Security, Azure Security.
 
 ---
-<div align="center" style="background-color: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 20px; margin-top: 20px;">
-<pre style="color: #39FF14; font-family: 'Courier New', Courier, monospace; font-size: 14px; text-shadow: 0 0 5px #39FF14;">
-#####################################################################
-#####################################################################
-###                                                               ###
-###    LLLLLLLLLLL                GGGGGGGGGGGGGG      MMMMMMMMMM    ###
-###    LLLLLLLLLLL              GGGGGGGGGGGGGGGG      MMMMMMMMMMM   ###
-###    LLLL                       GGGG                MMMM MMMM MMM  ###
-###    LLLL                       GGGG    GGGGGGGG      MMMM  MMMM    ###
-###    LLLLLLLLLLL              GGGGGGGGGGGGGGGG      MMMM    MMMM  ###
-###    LLLLLLLLLLL                GGGGGGGGGGGG        MMMM    MMMM  ###
-###                                                               ###
-#####################################################################
-##############   LUCAS MORAIS | CYBERSECURITY & ENGINEERING   #######
-#####################################################################
+
+<div align="center" style="background-color: #1a1f2c; border: 1px solid #334155; border-radius: 8px; padding: 20px; margin-top: 20px;">
+<pre style="color: #e0e0e0; font-family: 'Fira Code', 'Roboto Mono', monospace; font-size: 14px; line-height: 1.6; text-shadow: 0 0 2px #000;">
+<span style="color: #00aaff; font-weight: bold;">╔══════════════════════════════════════════════════════════════════════════════╗</span>
+<span style="color: #00aaff; font-weight: bold;">║</span><span style="color: #e0e0e0; font-weight: bold;">    L U C A S   M O R A I S   -   P E R S O N A L   S E C U R I T Y   H U D   </span><span style="color: #00aaff; font-weight: bold;">║</span>
+<span style="color: #00aaff; font-weight: bold;">╚══════════════════════════════════════════════════════════════════════════════╝</span>
+
+<span style="color: #4ade80;">[+]</span><span style="color: #94a3b8;"> AGENT_ID:</span><span style="color: #e0e0e0;"> Lucas Morais        </span><span style="color: #4ade80;">[+]</span><span style="color: #94a3b8;"> STATUS:</span><span style="color: #38bdf8;"> Actively Hunting</span>
+
+<span style="color: #38bdf8;">╔══</span><span style="color: #475569;">═[ </span><span style="color: #94a3b8; font-weight: bold;">CORE ATTRIBUTES</span><span style="color: #475569;"> ]</span><span style="color: #38bdf8;">═════════════════════════════════════════════════════════════</span><span style="color: #38bdf8;">╗</span>
+<span style="color: #38bdf8;">║</span>                                                                           <span style="color: #38bdf8;">║</span>
+<span style="color: #38bdf8;">║</span>    <span style="color: #f59e0b;">CODENAME</span><span style="color: #475569;">..:</span><span style="color: #e0e0e0;"> AspergerianLogic    </span><span style="color: #f59e0b;">FOCUS</span><span style="color: #475569;">.....:</span><span style="color: #e0e0e0;"> Offensive Security     </span><span style="color: #38bdf8;">║</span>
+<span style="color: #38bdf8;">║</span>    <span style="color: #f59e0b;">ARCHTYPE</span><span style="color: #475569;">..:</span><span style="color: #e0e0e0;"> Hunter-Developer      </span><span style="color: #f59e0b;">LANGUAGES</span><span style="color: #475569;">...:</span><span style="color: #e0e0e0;"> Python, Go, Rust, C    </span><span style="color: #38bdf8;">║</span>
+<span style="color: #38bdf8;">║</span>    <span style="color: #f59e0b;">LOCATION</span><span style="color: #475569;">..:</span><span style="color: #e0e0e0;"> Portugal (EU)         </span><span style="color: #f59e0b;">AVAILABILITY</span><span style="color: #475569;">:</span><span style="color: #e0e0e0;"> Global (Sponsorship)   </span><span style="color: #38bdf8;">║</span>
+<span style="color: #38bdf8;">║</span>                                                                           <span style="color: #38bdf8;">║</span>
+<span style="color: #38bdf8;">╚══</span><span style="color: #475569;">═[ </span><span style="color: #94a3b8; font-weight: bold;">SYSTEM LOAD</span><span style="color: #475569;"> ]</span><span style="color: #38bdf8;">══════════════════════════════════════════════════════════════</span><span style="color: #38bdf8;">╝</span>
+<span style="color: #94a3b8;">   Analysis........: </span><span style="color: #4ade80;">███████████████</span><span style="color: #475569;">░░░░░░░</span><span style="color: #e0e0e0;">  [</span><span style="color: #38bdf8;">70%</span><span style="color: #e0e0e0;">]</span>
+<span style="color: #94a3b8;">   Development......: </span><span style="color: #4ade80;">████████████</span><span style="color: #475569;">░░░░░░░░░░</span><span style="color: #e0e0e0;">  [</span><span style="color: #38bdf8;">60%</span><span style="color: #e0e0e0;">]</span>
+<span style="color: #94a3b8;">   Coffee Intake....: </span><span style="color: #f87171;">████████████████████</span><span style="color: #e0e0e0;">  [</span><span style="color: #f43f5e;">100%</span><span style="color: #e0e0e0;">]</span>
+
+<span style="color: #475569;">// session_end -- standing_by_for_new_directives</span>
 </pre>
 </div>
