@@ -1,158 +1,122 @@
-<h1 align="center">🚀 Minha Jornada com Open Source & Desenvolvimento Seguro</h1><p align="center">
-  <strong>Desenvolvedor | Especialista em Segurança da Informação | Contribuidor Open Source</strong><br>
-  <a href="mailto:lucasescobarmorais@gmail.com">lucasescobarmorais@gmail.com</a> • 
-  <a href="https://github.com/Lalalucas">GitHub</a> • 
-  <a href="https://linkedin.com/in/lucasgdm">LinkedIn</a> • 
-  <a href="https://signal.me/#eu/Cw8TsrwvMGUxNxVIVcel3uA4uI0s8xr5rRz6Zi7YsrHuLOqO1Q9G-IZ2z4bxm3lF">Signal: MoraisLGM</a>
+<p align="center">
+  <img src="https://i.imgur.com/gKkEBuP.jpeg" alt="Foto de Lucas Morais" width="200" style="border-radius: 50%;">
 </p>
----
 
-🚀 Minha Jornada de Evolução com a DIO.me: Conhecimento, Prática e Superação
+<h1 align="center">LUCAS MORAIS</h1>
+<h3 align="center">Especialista em Cibersegurança | Engenheiro de Software | Bug Bounty Hunter</h3>
 
-Olá, comunidade tech!
+<p align="center">
+  <a href="https://github.com/Lalalucas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/lucasgdm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lucasescobarmorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-Me chamo Lucas Gabriel de Morais, especialista em segurança da informação, desenvolvedor de soluções ofensivas e defensor ativo do open source.
-
-Nos últimos meses, mergulhei nos bootcamps e desafios da DIO.me — uma plataforma que elevou minha forma de aprender, praticar e aplicar conceitos de segurança, desenvolvimento seguro, Git, GitHub, lógica de programação, JavaScript, Python, C# e muito mais.
-
-A DIO foi essencial para consolidar minha autonomia, aprimorar minha produtividade e aplicar conhecimentos de forma prática, colaborativa e segura.
-
-
----
-
-🏆 Conquista no Desafio DIO: "Me Criando"
-
-Concluí com excelência o desafio "Me Criando", focado em Git/GitHub e colaboração open source. Durante esse desafio, me destaquei por:
-
-📌 Criar e gerenciar repositórios com boas práticas
-
-🔀 Trabalhar com branches e PRs limpos e bem descritos
-
-🛡️ Realizar pushs seguros (--force-with-lease) e squash commits
-
-🤝 Colaborar com ética, clareza e responsabilidade em projetos públicos
-
-
-📄 Visualizar certificado oficial da DIO
-
+<div align="center">
+<pre>
++-------------------------------------------------------------------+
+|                                                                   |
+|    _                ____            _       __  __                |
+|   | |    __ _      / ___| ___  __ _| |___  |  \/  | __ _ _ __      |
+|   | |   / _` |    | |  _ / _ \/ _` | / __| | |\/| |/ _` | '_ \     |
+|   | |__| (_| |    | |_| |  __/ (_| | \__ \ | |  | | (_| | | | |    |
+|   |_____\__,_|     \____|\___|\__,_|_|___/ |_|  |_|\__,_|_| |_|    |
+|                                                                   |
++-------------------------------------------------------------------+
+</pre>
+</div>
 
 ---
 
-📚 Projetos e Desafios Realizados
+### 🎯 **Resumo Profissional**
 
-Minha jornada prática na DIO resultou em repositórios e projetos aplicados, como:
+Profissional de alta performance com sólida vivência em **cibersegurança ofensiva, desenvolvimento full-stack, DevSecOps e SEO técnico**. Atuo desde 2018 como freelancer e analista, com projetos em pentest, análise de vulnerabilidades e automação. Minha trajetória inclui experiências operacionais que fortaleceram minha resiliência e base técnica, como monitoramento de sistemas de segurança bancários (Bradesco) e manutenção técnica em Portugal.
 
-🎖️ Classificador de Nível de Herói – Lógica condicional com boas práticas de código limpo
+Como **Bug Bounty Hunter** (HackerOne, Bugcrowd) e desenvolvedor, sou treinado em um vasto arsenal de ferramentas ofensivas e atuo com excelência em ambientes **Linux/Kali**, utilizando técnicas de black box e fuzzing.
 
-🧠 Jogo da Memória – Desenvolvimento dinâmico com HTML, CSS e JavaScript
-
-🔄 Trabalhos com vetores, estruturas condicionais e loops
-
-🌐 Estruturação de Git/GitHub com repositórios públicos, versionamento semântico e organização por branches
-
-🛠️ Automação de ferramentas ofensivas no Termux com integração Kali Linux
-
-
+Possuo autorização de residência em Portugal (livre circulação na UE) e disponibilidade para viagens e oportunidades internacionais com sponsorship (EUA, Reino Unido, Canadá, Austrália).
 
 ---
 
-💡 Como Neurodivergente com Asperger
+### 💡 **Neurodiversidade como Força**
 
-Tenho diagnóstico de Síndrome de Asperger, o que me confere habilidades únicas como:
-
-Hiperfoco em resolução de problemas complexos
-
-Lógica rigorosa e organização extrema
-
-Busca contínua por excelência e aperfeiçoamento técnico
-
-
-Na DIO encontrei liberdade para explorar ao máximo essas qualidades e transformar aprendizado em entrega.
-
+Diagnosticado com Síndrome de Asperger, utilizo o **hiperfoco, a atenção aos detalhes e a lógica rigorosa** como diferenciais competitivos. Essas características me permitem resolver problemas complexos com excelência e manter um padrão de alta qualidade em ambientes técnicos sensíveis, transformando aprendizado em entregas de impacto.
 
 ---
 
-👨‍💻 Sobre Mim
+### 🔧 **Competências Técnicas**
 
-Sou de Aparecida de Goiânia (GO) e atuo com cibersegurança ofensiva, engenharia reversa e automação de testes e auditorias.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Metasploit-A60F2B?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+</p>
 
-🛡️ Pentester, Bug Bounty Hunter e Forense Digital
-
-🧰 Criação de ferramentas personalizadas para ambientes ofensivos (Python, Bash, Go, C#)
-
-📈 Consultor em segurança web, redes, infraestrutura e análise de vulnerabilidades
-
-
-
----
-
-💼 Habilidades Técnicas
-
-Área	Tecnologias e Ferramentas
-
-Pentest & Segurança	Metasploit, BeEF, Hydra, Nikto, OWASP ZAP, Volatility, Wapiti
-Desenvolvimento	Python, Bash, JavaScript, C#, Go, Rust
-Cloud & DevOps	Docker, AWS, Azure, Linux (Kali, Parrot), Termux
-Automação & Scripts	Playwright, Lynis, John the Ripper, Aircrack-ng, Darkstat
-
-
-
----
-
-📜 Certificações e Formação
-
-🏅 Certificações: OSCP, CEH, CISSP, CISM, CHFI, LPT, Security+
-
-🎓 Graduação em Engenharia/Ciências da Computação (conclusão prevista: 2025)
-
-📘 Cursos intensivos em Pentest Avançado, Azure Security, Engenharia Reversa
-
-
+| Área | Tecnologias e Ferramentas |
+| :--- | :--- |
+| **Cibersegurança & Pentest** | `Metasploit` `Burp Suite` `Nikto` `BeEF` `OWASP ZAP` `Wireshark` `Hydra` `John the Ripper` `Nmap` `ffuf` `Red/Blue/Purple Team` |
+| **Desenvolvimento** | `Python` `Bash` `JavaScript` `HTML/CSS` `C` `Go` `C#` `Rust` `REST APIs` |
+| **Cloud & DevOps** | `AWS` `GCP` `Azure` `Docker` `CI/CD` `GitHub Actions` `DevSecOps` |
+| **Infraestrutura & TI** | `Suporte Técnico` `Redes` `Servidores` `Linux (Kali, Parrot)` `Administração de Ativos` |
+| **SEO Técnico** | `SEMrush` `Google Search Console` `Playwright` `Lighthouse` |
 
 ---
 
-🤝 Solicitação de Apoio à Comunidade DIO.me
+### 💼 **Experiência Profissional**
 
-A DIO abriu portas reais. Hoje, gostaria de contar com o apoio da comunidade e da própria plataforma para continuar crescendo:
-
-💬 Por que apoio?
-
-Quero continuar contribuindo com projetos open source e ajudar outros devs
-
-Preciso de bolsa vitalícia na DIO.me para formação contínua
-
-Desejo concluir minha graduação com apoio financeiro ou bolsa
-
-Desenvolvo atualmente via Termux em ambiente limitado — apoio com notebook seria transformador
-
-Estou disponível para parcerias, freelas e mentorias técnicas em cibersegurança
-
-
-📌 Para apoiar: Pix: lucasescobarmorais@gmail.com
-
+*   **Freelancer Técnico** | Autônomo (2018 – atualmente)
+*   **Técnico de Manutenção Veicular** | Midas e Roady (Portugal) (2018 – 2023)
+*   **Monitor de Alarmes** | Bell Amfe Proteção e Serviços (Mar – Nov/2023)
+*   **Outras:** Auxiliar Mecânico (2024), Porteiro (2023), Almoxarife (2015), Auxiliar Administrativo (2012)
 
 ---
 
-🔗 Contatos
+### 🏅 **Bug Bounty e Divulgação Responsável**
 
-Plataforma	Link
-
-📧 Gmail	lucasescobarmorais@gmail.com
-🔐 ProtonMail	lucasescobarmorais@proton.me
-💬 WhatsApp	+55 62 98245-6245
-🔐 Signal	MoraisLGM
-💻 GitHub	github.com/Lalalucas
-💼 LinkedIn	linkedin.com/in/lucasgdm
-
-
+Atuo na identificação e no reporte ético de falhas para grandes organizações, com colaborações notáveis junto a:
+*   **Facebook (Meta):** Reporte de vulnerabilidades através do programa oficial de Bug Bounty.
+*   **LATAM Airlines & TAP Air Portugal:** Identificação e comunicação de falhas de segurança.
+*   **Instituições Financeiras (Banco Central e Banco do Nordeste):** Análise proativa e elaboração de relatórios técnicos detalhando vulnerabilidades e exposição de informações.
 
 ---
 
-💬 Mensagem Final
+### 🎓 **Formação Acadêmica**
 
-> “Com o pouco que tenho, cheguei longe. Com apoio, posso ir ainda mais longe — e retribuir com ainda mais força. A tecnologia me salvou, e hoje quero salvar, construir e proteger sistemas para o mundo todo. Vamos juntos!”
+*   **Duplo Bacharelado em Ciência da Computação e Engenharia da Computação**
+    *   *Harvard University – John A. Paulson School of Engineering and Applied Sciences (Cambridge, MA – USA)*
+    *   **Ênfase:** IA, Segurança de Sistemas, Redes, Engenharia Reversa, Criptografia.
+    *   **Cursos de Destaque:** CS50, CS61 (C, C++, Python, SQL, JavaScript, HTML/CSS).
 
-
-
-<p align="center"><sub>Desenvolvido com ética e paixão por Lucas Gabriel de Morais © 2025</sub></p>
 ---
+
+### 📜 **Certificações**
+
+*   **Segurança Ofensiva:** OSCP, OSEP, OSWP, CEH, LPT, Pentest+.
+*   **Gestão e Defesa:** CISSP, CISM, CHFI, CompTIA Security+.
+*   **Redes e Cloud:** CCNA Security, Azure Security.
+
+---
+<div align="center" style="background-color: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 20px; margin-top: 20px;">
+<pre style="color: #39FF14; font-family: 'Courier New', Courier, monospace; font-size: 14px; text-shadow: 0 0 5px #39FF14;">
+#####################################################################
+#####################################################################
+###                                                               ###
+###    LLLLLLLLLLL                GGGGGGGGGGGGGG      MMMMMMMMMM    ###
+###    LLLLLLLLLLL              GGGGGGGGGGGGGGGG      MMMMMMMMMMM   ###
+###    LLLL                       GGGG                MMMM MMMM MMM  ###
+###    LLLL                       GGGG    GGGGGGGG      MMMM  MMMM    ###
+###    LLLLLLLLLLL              GGGGGGGGGGGGGGGG      MMMM    MMMM  ###
+###    LLLLLLLLLLL                GGGGGGGGGGGG        MMMM    MMMM  ###
+###                                                               ###
+#####################################################################
+##############   LUCAS MORAIS | CYBERSECURITY & ENGINEERING   #######
+#####################################################################
+</pre>
+</div>
