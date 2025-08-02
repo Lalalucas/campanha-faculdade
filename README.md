@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/gKkEBuP.jpeg" alt="Foto de Lucas Morais" width="200" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">LUCAS GABRIEL DE MORAIS</h1>
+<h1 align="center">LUCAS - MORAIS</h1>
 <h3 align="center">Especialista em Cibersegurança | Engenheiro de Software | Estrategista de IA</h3>
 
 <p align="center">
